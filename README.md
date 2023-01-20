@@ -1,6 +1,6 @@
 # SDG_typology
 This Database was created to classify national development priorities (displayed in national development plans) depending on the Sustainable Development Goal they referred to. 
-Sources of the documents are featured in the database, methods in the associated paper. 
+Sources of the documents are featured in the database, methods in the associated working paper "Mapping national development priorities under the Sustainable Development Goals framework – a systematic analysis" by Auriane Meilland and Franck Lecocq. 
 Last updated in october 2022
 
 The folder features a version of the database in xlsx and csv formats, a Notebook that recreates the figures of the paper and all needed files to create the figures. 
